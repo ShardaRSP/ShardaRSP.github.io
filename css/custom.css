@@ -10,6 +10,13 @@
     box-sizing: border-box;
 }
 
+.product-image {
+  /*border: 0.2px solid gray;*/
+  /*padding: 2px;*/
+  /*-moz-box-sizing: border-box;*/
+  /*box-sizing: border-box;*/
+}
+
 @media(max-width:768px) {
     .map {
         height: 75%;
