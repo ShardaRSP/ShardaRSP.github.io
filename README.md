@@ -15,6 +15,6 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 # TODO
 
 - reviews
-- specials
+- specials and deals
 - drop ship (add to services)
 - product list (by mill)
