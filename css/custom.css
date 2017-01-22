@@ -1,7 +1,7 @@
 /* Map */
 
 .map {
-    height: 500px;
+    height: 600px;
     padding: 0;
     width: 80%;
     margin: auto auto 80px auto;
@@ -67,4 +67,8 @@ div.modal-container {
   padding: 2px;
   border-radius: 3px;
   background: white;
+}
+
+.center-text {
+  text-align: center;
 }
