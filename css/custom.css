@@ -72,3 +72,21 @@ div.modal-container {
 .center-text {
   text-align: center;
 }
+
+.transition-border {
+  border-top: 2px solid #263238;
+  border-bottom: 2px solid #263238;
+}
+
+.contact-method {
+  border:1px solid tomato;
+  border-radius:100px;
+  padding-top: 18px;
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.contact-method:hover {
+  background-color: tomato;
+  color: white;
+}
